@@ -143,3 +143,9 @@
 3.flash 폴더에, 이해하기 어려운 예제들을 그림과 함께 동영상 있으니 활용하자.
 4.모든 예제 소스파일 있음.
 5.요약집 존재.
+
+#이클립스 import
+-Package Explore> 빈 화면 우클릭>import>General>Existing Projects into Workspace(기존의 프로젝트를 workspace로 가져오기)
+>내가 가져올 프로젝트 선택 >copy projects into workspace 체크
+-내 소스를 옮기고 싶을때는 
+>Export>General>Archive File>선택 후 >save in zip format 체크>경로 설정 후 저장.
